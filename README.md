@@ -21,3 +21,8 @@
 - Tipografía elegante: 'Playfair Display' para títulos
 - Efectos visuales: Sombras, transiciones y hover states
 - Espaciado consistente y jerarquía visual clara
+# Vista previa
+![image url](https://github.com/luisvarela-code/optica/blob/main/proyecto-1.png?raw=true)
+![image url](https://github.com/luisvarela-code/optica/blob/main/proyecto-1.1.png?raw=true)
+![image url](https://github.com/luisvarela-code/optica/blob/main/proyecto-1.2.png?raw=true)
+![image url](https://github.com/luisvarela-code/optica/blob/main/proyecto-1.3.png?raw=true)
